@@ -1,0 +1,1 @@
+# Kriskal-Algorithm
